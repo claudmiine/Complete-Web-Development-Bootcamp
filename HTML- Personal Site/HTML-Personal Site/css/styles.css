@@ -1,0 +1,27 @@
+body {
+    background-color:#ffd3b6;
+    
+}
+h1 {
+    color: #cd8d7b;
+    text-align: justify;
+    text-decoration: underline;
+}
+    
+h3 {
+    color: #ba6b57;
+    text-align: center;
+    letter-spacing: -1px;
+    
+ }
+     
+hr {
+     border-color:#ba6b57;
+     border-style: none;
+     border-top-style: dotted;
+     border-width: 5px;
+     width: 5%;
+}
+.programing{
+    left: 20px;
+}
